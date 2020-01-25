@@ -28,7 +28,7 @@ twitter_username: james3burketweets
 github_username:  james3burke
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
