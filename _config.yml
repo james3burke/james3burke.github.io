@@ -28,7 +28,7 @@ twitter_username: james3burke
 github_username:  james3burke
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
